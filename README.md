@@ -41,10 +41,6 @@ Contribuições são sempre bem-vindas! Se você deseja melhorar o código, adic
 4.  Faça push para a branch (`git push origin feature/NomeDoRecurso`).
 5.  Abra um pull request.
 
-## 📜 Licença 📜
-
-Este projeto está sob a licença [MIT](LICENSE.txt). Veja o arquivo `LICENSE.txt` para mais detalhes.
-
 ---
 
 <div align="center">
