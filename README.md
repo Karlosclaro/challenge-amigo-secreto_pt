@@ -1,7 +1,7 @@
 # 🎁 Amigo Secreto: Sorteio Divertido! 🎁
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hZrpD7mgct6Wg/giphy.gif" alt="Amigo Secreto GIF" width="200"/>
+  <img src="https://media.giphy.com/media/dzIj2bCi5gp7JSifgk/giphy.gif" alt="Amigo Secreto GIF" width="200"/>
 </div>
 
 Bem-vindo ao **Amigo Secreto**, uma aplicação web simples e divertida para realizar sorteios de amigo secreto entre amigos, familiares ou colegas de trabalho! 🎉🤝
@@ -48,6 +48,6 @@ Este projeto está sob a licença [MIT](LICENSE.txt). Veja o arquivo `LICENSE.tx
 ---
 
 <div align="center">
-  Feito com ❤️ por [Seu Nome/Nickname]
+  Feito com ❤️ por Karlos Claro
 </div>
 
